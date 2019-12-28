@@ -2,7 +2,7 @@
   "name": "software-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://herointouch.github.io/BetterEx/",
+  "homepage": "https://herointouch.github.io/BetterEx/",
   "dependencies": {
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
