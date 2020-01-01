@@ -136,7 +136,7 @@ class homepage extends React.Component{
                 </section>
                 <footer className = 'contact'>
                     <div className='contact-data'>
-                        <header>Contact Us</header>
+                        <h1>Contact Us</h1>
                         {/* <p className='contact-data-name'>Name: Setthawut saengcharoen</p>
                         <p className='contact-data-email'>Email: contact@central.co.th</p>
                         <p className='contact-data-tel'>Tel: 0-2730-7777</p>
